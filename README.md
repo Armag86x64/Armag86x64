@@ -37,7 +37,7 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <h1>Statistics</h1>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armag86x64&show_icons=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Armag86x64&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&icon_color=ffffff&border_color=333333)
 
 <p align="right">
   <!-- Streak -->
