@@ -11,6 +11,7 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
 <p align="right"><code>[wilhelm@nixos:~]$ nix-shell -p rustc</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <br clear="right"> <!-- Этот тег сбросит обтекание картинки, чтобы заголовок не "уехал" вверх -->
+<br>
 
 <div align="center">
   <h1>Technologies</h1>
