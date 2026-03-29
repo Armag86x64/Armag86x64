@@ -2,4 +2,4 @@
 
 ---
 
-<h2 algin="center"> Wilhelm Schwartz </h2>
+<h1 algin="center">Wilhelm Schwartz</h1>
