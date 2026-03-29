@@ -13,5 +13,5 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
 <br clear="right"> <!-- Этот тег сбросит обтекание картинки, чтобы заголовок не "уехал" вверх -->
 
 <div align="center">
-  <h2>Technologies</h2>
+  <h1>Technologies</h1>
 </div>
