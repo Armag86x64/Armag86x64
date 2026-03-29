@@ -8,5 +8,4 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
 
 > "I'm a strong advocate for **Free Software**. I believe in open collaboration and encourage the use, study, and modification of my work for the benefit of the community."
 
-<br clear="right""")/>>
 <p align="right"><code>[wilhelm@nixos:~]$ nix-shell -p rustc</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
