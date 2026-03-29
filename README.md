@@ -44,7 +44,7 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armag86x64&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa" width="420" height="170"/>
 </p>
 
-<p align="center">
+
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armag86x64&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=222222&border_color=333333" />
 </p>
