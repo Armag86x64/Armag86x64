@@ -10,7 +10,7 @@
     </td>
     <td width="40%" align="center">
       <!-- Стильная минималистичная гифка или иконка NixOS -->
-      <img src="icon_1.jpeg" width="250" />
+      <img src="icons/icon_1.jpeg" width="250" />
       <br>
       <code>[wilhelm@nixos:~]$ nix-shell -p rustc</code>
     </td>
