@@ -1,7 +1,6 @@
 ![Banner](banners/banner_1.jpg)
 
-<br>
-<br>
+<br><br>
 
 <h1 align="center">Wilhelm Schwartz</h1>
 
@@ -30,4 +29,25 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <br/>
   <img src="https://img.shields.io/badge/arch-000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/nixos-000000.svg?style=for-the-badge&logo=nixos&logoColor=white" />
+</p>
+
+<br><br>
+
+<div align="center">
+  <h1>Statistics</h1>
+</div>
+
+<p align="center">
+  <!-- Основная статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&icon_color=ffffff&border_color=333333" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=222222&border_color=333333" />
 </p>
