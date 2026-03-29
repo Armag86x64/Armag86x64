@@ -17,5 +17,15 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <h1>Technologies</h1>
 </div>
 
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&color=000000) 
-![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=000000)
+<p align="center">
+  <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/arch-000000.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/nixos-000000.svg?style=for-the-badge&logo=nixos&logoColor=white" />
+</p>
