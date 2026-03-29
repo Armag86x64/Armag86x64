@@ -1,5 +1,8 @@
 ![Banner](banners/banner_1.jpg)
 
+<br>
+<br>
+
 <h1 align="center">Wilhelm Schwartz</h1>
 
 <img src="icons/icon_1.jpeg" align="right" width="250" />
