@@ -17,11 +17,4 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <h1>Technologies</h1>
 </div>
 
-![Rust](https://img.shields.io)
-![Tokio](https://img.shields.io)
-![Python](https://img.shields.io)
-![Bash](https://img.shields.io)
-![Docker](https://img.shields.io)
-![Git](https://img.shields.io)
-![Linux](https://img.shields.io)
-![NixOS](https://img.shields.io)
+![Linux](https://img.shields.io/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
