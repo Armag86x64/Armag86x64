@@ -38,8 +38,8 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
 </div>
 
 <p align="center">
-  <!-- Основная статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Armag86x64К&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&icon_color=ffffff&border_color=333333" />
+  <!-- Top языки -->
+  <img src="https://github-readme-stats-ТВОЙ_ПРОЕКТ.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=333333" />
 </p>
 
 <p align="center">
