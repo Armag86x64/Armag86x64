@@ -17,4 +17,5 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <h1>Technologies</h1>
 </div>
 
-![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&color=000000)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&color=000000) 
+![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=000000)
