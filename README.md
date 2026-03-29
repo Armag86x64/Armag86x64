@@ -8,9 +8,10 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
 
 > "I'm a strong advocate for **Free Software**. I believe in open collaboration and encourage the use, study, and modification of my work for the benefit of the community."
 
-<p align="right"><code>[wilhelm@nixos:~]$ nix-shell -p rustc</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br></p>
+<p align="right"><code>[wilhelm@nixos:~]$ nix-shell -p rustc</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
+<br clear="right"> <!-- Этот тег сбросит обтекание картинки, чтобы заголовок не "уехал" вверх -->
 
-<h1 align="center">Technologies</h1>
-
----
+<div align="center">
+  <h2>Technologies</h2>
+</div>
