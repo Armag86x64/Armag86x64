@@ -37,14 +37,14 @@ Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network 
   <h1>Statistics</h1>
 </div>
 
-<p align="center">
+<p align="right">
   <!-- Полная статистика -->
-  <img src="https://github-readme-stats-nine-beta-94.vercel.app/api?username=Armag86x64&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" width="400" height="165"/>
+  <img src="https://github-readme-stats-nine-beta-94.vercel.app/api?username=Armag86x64&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" width="350" height="165"/>
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armag86x64&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa" width="420" height="170"/>
 </p>
 
-<p align="center">
+<p align="right">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armag86x64&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=222222&border_color=333333" />
 </p>
