@@ -4,7 +4,7 @@
 
 <h1 align="center">Wilhelm Schwartz</h1>
 
-<img src="icons/icon_1.jpeg" align="right" width="250" />
+<img src="icons/icon_3.png" align="right" width="250" />
 
 Hi! My name is Wilhelm. I'm a Rust developer. My main specialization is network programming and working with network infrastructure. I'm also actively learning Linux-based operating systems, but I use NixOs for everyday tasks and work.
 
