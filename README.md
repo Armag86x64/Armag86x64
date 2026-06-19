@@ -1,4 +1,4 @@
-![Banner](banners/banner_3.png)
+![Banner](banners/banner_4.png)
 
 <br><br>
 
